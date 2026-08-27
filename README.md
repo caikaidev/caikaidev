@@ -1,3 +1,3 @@
-- 👋 **Hi, I’m Ian **, an Android Tech Lead & Mobile Architect.
+- 👋 **Hi, I’m Ian**, an Android Tech Lead & Mobile Architect.
 - 🐶 **Creator of [TapHound](https://github.com/caikaidev/TapHound)**, a deterministic CLI for Android AI testing and UI verification.
 - 🌱 **Currently exploring** AI-driven developer workflows (MCP, LLM Agents) and local model optimization.
